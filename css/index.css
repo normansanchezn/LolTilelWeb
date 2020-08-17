@@ -5,44 +5,26 @@
     --color-secondary: #EDCA44;
 }
 
-body {
-    background-color: var(--color-principal);
+.title-nav{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 500 !important;
 }
 
-.titleLogo {
-    color: var(--color-secondary);
-    font-size: 2em;
-    margin-top: auto;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+.pestanas-nav{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 300 !important;
 }
 
-.sloganLogo {
-    color: white;
-    font-size:1em;
-    font-family: 'Montserrat', sans-serif;
+.dev-web {
+    color: #28475C;
 }
 
-.contenedorLogo {
-    overflow: hidden;
-    margin-top: 30px !important;
-    margin-left: 30px !important;
-    text-decoration: none;
+
+.dev-web p {
+    color: #28475C;
 }
 
-.logo {
-    width: 3.5em;
-    height: auto;
-}
-
-#logo {
-    float: left;
-}
-
-#textoLogo {
-    float: left;
-}
-
-.nounderline {
-    text-decoration: none;
+.carousel {
+    align-self: center;
+    width: 70% !important;
 }
